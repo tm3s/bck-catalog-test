@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: users-and-groups-locator
+  description: this is a basic users and groups locator.
+spec:
+  targets:
+    - ./users/*.yaml
+    - ./groups/*.yaml
