@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1beta1
+kind: User
+metadata:
+  name: ab010n4
+  description: User ab010n4 imported by Backstage
+spec:
+  profile:
+    displayName: Thoka Mamabolo
+    email: thoka.mamabolo@absa.africa
+  memberOf: []
